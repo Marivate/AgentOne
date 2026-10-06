@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "muse_ai_clone",
-    "slug": "muse_ai_clone",
+    "name": "AgentOne",
+    "slug": "AgentOne",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "museaiclone",
+    "scheme": "agentone",
     "userInterfaceStyle": "automatic",
     "ios": {
       "icon": "./assets/expo.icon"
