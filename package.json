@@ -3,7 +3,7 @@
   "main": "expo-router/entry",
   "version": "1.0.0",
   "dependencies": {
-    "@browserbasehq/sdk": "^2.21.0",
+    "@browserbasehq/sdk": "^2.22.0",
     "@browserbasehq/stagehand": "^4.1.0",
     "@composio/core": "^0.17.0",
     "@composio/openai-agents": "^0.10.1",
