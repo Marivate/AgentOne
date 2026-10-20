@@ -1,6 +1,6 @@
-# 📖 Muse AI Clone — Comprehensive Codebase & Architecture Guide
+# 📖 Agent One — Comprehensive Codebase & Architecture Guide
 
-Welcome to the comprehensive technical documentation for **Muse AI Clone** (and autonomous companion **Cooper**). This document provides an exhaustive, file-by-file breakdown of the current architecture, explaining each module's responsibility, state flow, UI components, design tokens, and interactions across the application.
+Welcome to the comprehensive technical documentation for **Agent One** (and autonomous companion **Cooper**). This document provides an exhaustive, file-by-file breakdown of the current architecture, explaining each module's responsibility, state flow, UI components, design tokens, and interactions across the application.
 
 ---
 
@@ -23,7 +23,7 @@ Welcome to the comprehensive technical documentation for **Muse AI Clone** (and 
 
 ## 🏛️ Architectural Overview
 
-**Muse AI Clone** is a Universal React Native application built with **Expo (SDK 57)** and **React Native 0.86.3**. It runs seamlessly across iOS, Android, and Web browsers.
+**Agent One** is a Universal React Native application built with **Expo (SDK 57)** and **React Native 0.86.3**. It runs seamlessly across iOS, Android, and Web browsers.
 
 ### Key Architectural Highlights:
 - **Expo Router Tab Navigation:** Clean file-based routing with a dedicated `(tabs)` group for the 5 core tabs (`chat`, `feed`, `ideas`, `tasks`, `settings`).
@@ -39,7 +39,7 @@ Welcome to the comprehensive technical documentation for **Muse AI Clone** (and 
 ## 🌲 Codebase Tree & Directory Structure
 
 ```
-muse_ai_clone/
+Agent One/
 ├── AGENTS.md                          # Agent rules and developer guidelines
 ├── README.md                          # Quick start and project overview
 ├── app.json                           # Expo app configuration & branding assets

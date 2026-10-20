@@ -1,12 +1,12 @@
-# Muse AI Clone - Developer & Agent Guide
+# Agent One - Developer & Agent Guide
 
-This is an Expo/React Native application for **Muse AI** (and AI companion **Cooper**) — an autonomous AI agent application tailored for recurring tasks, automated workflows, chat companion interactions, and scheduled operations.
+This is an Expo/React Native application for **Agent One** (and AI companion **Cooper**) — an autonomous AI agent application tailored for recurring tasks, automated workflows, chat companion interactions, and scheduled operations.
 
 ---
 
 ## 🚀 Project Overview
 
-- **App Name:** Muse AI Clone
+- **App Name:** Agent One
 - **Core Concept:** Autonomous AI Agent & Chat Companion for Recurring Tasks, Goals, and Automated Workflows
 - **Platform:** iOS, Android, and Web (Universal React Native)
 - **Current Phase:** Full UI Implementation with Clean Expo Router Tab Architecture, Pixel-Perfect Chat, Header Mascot, Floating Dock Tabs, Sidebar Drawer, and Settings.
@@ -45,7 +45,7 @@ Always reference and add color definitions in `src/constants/colors.ts`. Never h
 ## 📁 Clean Directory Structure & Architecture
 
 ```
-muse_ai_clone/
+Agent One/
 ├── AGENTS.md                  # Project & agent guidelines
 ├── package.json               # Dependencies & scripts
 ├── assets/
