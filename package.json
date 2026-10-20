@@ -1,5 +1,5 @@
 {
-  "name": "muse_ai_clone",
+  "name": "agent-one",
   "main": "expo-router/entry",
   "version": "1.0.0",
   "dependencies": {

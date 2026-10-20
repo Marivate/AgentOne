@@ -2,7 +2,7 @@
  * Sign In Screen Route ('/')
  *
  * All-in-one onboarding & Google Sign-in screen:
- * - Center: Glowing blue Muse AI brand emblem hero
+ * - Center: Glowing blue Agent One brand emblem hero
  * - Bottom: Full-width Google Sign-in action button with SVG brand mark & press feedback
  */
 
@@ -107,7 +107,7 @@ export default function SignInScreen() {
   return (
     <SafeAreaView style={styles.container} edges={['top', 'bottom', 'left', 'right']}>
       <View style={styles.content}>
-        {/* Center Hero: Muse AI Brand Emblem & Wordmark */}
+        {/* Center Hero: Agent One Brand Emblem & Wordmark */}
         <View style={styles.logoWrapper}>
           {/* Ambient Glow Halo */}
           <View style={styles.glowRing} />
@@ -124,8 +124,8 @@ export default function SignInScreen() {
 
           {/* Brand Wordmark */}
           <View style={styles.brandRow}>
-            <Text style={styles.brandName}>Muse</Text>
-            <Text style={styles.aiText}> AI</Text>
+            <Text style={styles.brandName}>Agent</Text>
+            <Text style={styles.aiText}> One</Text>
           </View>
         </View>
 
